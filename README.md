@@ -9,8 +9,6 @@ Snow boarder: [here](https://github.com/georgenasseem/snow-boarder).
 
 Quiznet: [here](https://github.com/georgenasseem/quiznet).
 
-RPG: [here](https://github.com/georgenasseem/rpg).
-
 ## My top projects: These projects are my absolute favorite, they took me a lot of time to make and these are the types of games that I would actually play in my free time.
 Tilevania: [here](https://github.com/georgenasseem/tilevania). 
 
