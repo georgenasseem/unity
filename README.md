@@ -6,3 +6,4 @@
 #### Tilevania: [here](https://github.com/georgenasseem/tilevania). 
 #### Zigzag: [here](https://github.com/georgenasseem/zigzag).
 #### Car race: : [here](https://github.com/georgenasseem/carrace).
+#### Slash Hero: : [here](https://github.com/georgenasseem/slash-hero).
