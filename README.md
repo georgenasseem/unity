@@ -8,4 +8,4 @@
 #### Zigzag: [here](https://github.com/georgenasseem/zigzag).
 #### Car race: [here](https://github.com/georgenasseem/carrace).
 #### Slash Hero: [here](https://github.com/georgenasseem/slash-hero).
-#### Zambie Run: [here](https://github.com/georgenasseem/zombie-run).
+#### Zombie Run: [here](https://github.com/georgenasseem/zombie-run).
